@@ -1,5 +1,12 @@
 {
     "versions": {
+        "2.0.1": [
+            "Updated app description for clarity and improved user engagement.",
+            "Adjusted paths for local icons in the app configuration.",
+            "Enhanced vehicle deletion logic in events to prioritize framework-specific handling.",
+            "Included server config values in insurance data for accurate premium calculations in UI components.",
+            "Improved vehicle make and model retrieval logic to utilize framework-specific lookups, ensuring better compatibility across different frameworks.",
+        ],
         "2.0.0": [
             "Added built-in integrations for QBCore, QBox, and ESX frameworks",
             "Added native support for 10+ banking resources (Renewed-Banking, wasabi_banking, okokBanking, and more)",
