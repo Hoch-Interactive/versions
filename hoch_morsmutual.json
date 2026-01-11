@@ -1,5 +1,8 @@
 {
     "versions": {
+        "2.0.2": [
+            "Added support for the new 'vms_garagesv2' integration in vehicle management."
+        ],
         "2.0.1": [
             "Updated app description for clarity and improved user engagement.",
             "Adjusted paths for local icons in the app configuration.",
