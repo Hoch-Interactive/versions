@@ -1,0 +1,9 @@
+{
+    "versions": {
+        "2.0.0": [
+            "Added version checker",
+            "Complete Rewrite of the UI in React",
+            "Bug fixes and improvements"
+        ]
+    }
+}
