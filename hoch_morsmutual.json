@@ -1,9 +1,16 @@
 {
     "versions": {
         "2.0.0": [
-            "Added version checker",
-            "Complete Rewrite of the UI in React",
-            "Bug fixes and improvements"
+            "Added built-in integrations for QBCore, QBox, and ESX frameworks",
+            "Added native support for 10+ banking resources (Renewed-Banking, wasabi_banking, okokBanking, and more)",
+            "Added native support for popular garage resources (jg-advancedgarages, cd_garage, qs-advancedgarage)",
+            "Added phone notifications for claim updates and payment reminders",
+            "Added automatic version checker with patch notes on server start",
+            "Completely rebuilt UI using React for improved performance",
+            "Redesigned unlocked folder with modular per-resource integration files",
+            "Upgraded to Lua 5.4 for better performance",
+            "Simplified configuration with auto-detection for framework, banking, and garage",
+            "Removed community_bridge dependency — all integrations are now built-in"
         ]
     }
 }
