@@ -1,5 +1,11 @@
 {
     "versions": {
+        "2.0.4": [
+            "Added support for RxBanking"
+        ],
+        "2.0.3": [
+            "Updated locales and added currency selection to config"
+        ],
         "2.0.2": [
             "Added support for the new 'vms_garagesv2' integration in vehicle management."
         ],
