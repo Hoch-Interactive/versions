@@ -1,7 +1,7 @@
 {
     "versions": {
         "2.1.0": [
-            "YSERIES SUPPORT (Dark Mode still WIP)",
+            "YSERIES SUPPORT",
             "Appkit refactor, backend enhancements for supporting more phones"
         ],
         "2.0.4": [
