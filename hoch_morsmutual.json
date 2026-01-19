@@ -1,5 +1,10 @@
 {
     "versions": {
+        "2.1.1": [
+            "Added support for GKS Phone",
+            "Refactored vehicle deletion logic",
+            "Improved client-side vehicle network ID retrieval."
+        ],
         "2.1.0": [
             "YSERIES SUPPORT",
             "Appkit refactor, backend enhancements for supporting more phones"
